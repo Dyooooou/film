@@ -13,6 +13,7 @@ int main(){
             PilihLokasi();
             MenampilkanJadwal(1);
             PilihJadwal(1);
+            //MenampilkanTiket();
             break;
         case 2:
             FilmKedua();
@@ -20,6 +21,7 @@ int main(){
             PilihLokasi();
             MenampilkanJadwal(2);
             PilihJadwal(2);
+            //MenampilkanTiket();
             break;
         default:
             printf("Pilihan tidak valid. Silahkan coba lagi");

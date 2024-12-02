@@ -7,9 +7,9 @@ extern const char* NamaFilm[2];
 
 void MenampilkanFilm();
 void MenampilkanLokasi();
-int PilihLokasi();
-void MenampilkanJadwal(int Film);
-void PilihJadwal(int Film);
+void PilihLokasi();
+void MenampilkanJadwal();
+void PilihJadwal();
 void FilmPertama();
 void FilmKedua();
 
